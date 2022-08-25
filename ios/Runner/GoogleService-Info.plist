@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>304798199292-0f001fk4uhdnf916ttoi8fcsnuj8n3vh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.304798199292-0f001fk4uhdnf916ttoi8fcsnuj8n3vh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD13CmJmN3T8WuH7dKqYZmfD0a4Bqotxr0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>304798199292</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.trabalho2</string>
+	<key>PROJECT_ID</key>
+	<string>fiap-54edf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fiap-54edf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:304798199292:ios:5ba06ccea85fb7ed6f5679</string>
+	<key>DATABASE_URL</key>
+	<string>https://fiap-54edf-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

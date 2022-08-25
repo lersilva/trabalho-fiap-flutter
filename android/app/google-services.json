@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304798199292",
+    "firebase_url": "https://fiap-54edf-default-rtdb.firebaseio.com",
+    "project_id": "fiap-54edf",
+    "storage_bucket": "fiap-54edf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304798199292:android:0d4790a09a8b8eae6f5679",
+        "android_client_info": {
+          "package_name": "com.example.trabalho2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304798199292-fnb7482jcg7bo2ln70ioc4476d4jpif9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIGt7A2CqFYE6NDfNUB42twOULpSEI1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304798199292-fnb7482jcg7bo2ln70ioc4476d4jpif9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304798199292-0f001fk4uhdnf916ttoi8fcsnuj8n3vh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.trabalho2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
